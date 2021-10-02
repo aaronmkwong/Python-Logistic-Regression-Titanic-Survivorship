@@ -8,7 +8,7 @@ This project uses logistic regression modeling to classify a passenger's survivo
 
 **_Data Exploration_**
 
-The Titanic dataset is available through the **[kaggle](https://www.kaggle.com/c/titanic/overview)** competition. 
+The Titanic dataset is available through the **[Kaggle](https://www.kaggle.com/c/titanic/overview)** competition. 
 
 <ins>Target</ins><br/>
 Survived : Binary indicator of survival (0 = died, 1 = survived) <br/>
