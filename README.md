@@ -10,7 +10,7 @@
 
 **_Data Exploration_**
 
-The Titanic dataset is available through the kaggle competition **[site](https://www.kaggle.com/c/titanic/overview)**. 
+The Titanic dataset is available through the **[kaggle](https://www.kaggle.com/c/titanic/overview)** competition. 
 
 The Survived column is predicted using the others. 
 
