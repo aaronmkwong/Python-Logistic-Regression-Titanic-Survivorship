@@ -12,9 +12,10 @@
 
 The Titanic dataset is available through the **[kaggle](https://www.kaggle.com/c/titanic/overview)** competition. 
 
-The Survived column is predicted using the others. 
-
+Target
 Survived : Binary indicator of survival (0 = died, 1 = survived) <br/>
+
+Features <ins>text</ins>
 Passenger ID : Number assigned to each passenger <br/>
 Pclass : Proxy for socio-economic status (1 = upper, 2 = middle, 3 = lower) <br/>
 Name : Passenger’s name (wedded women, her husband’s name appears first and her maiden name appears in parentheses) <br/>
