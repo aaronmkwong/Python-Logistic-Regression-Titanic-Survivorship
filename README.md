@@ -10,7 +10,7 @@
 
 **_Data Exploration_**
 
-The Titanic dataset was obtained from the kaggle competition **[site](https://www.kaggle.com/c/titanic/data)**. The Survived column is what will be predicted using the information in the others. 
+The Titanic dataset is available through the open kaggle competition **[site](https://www.kaggle.com/c/titanic/data)**. The Survived column will be predicted using the information from the others. 
 
 Survived : Binary indicator of survival (0 = died, 1 = survived) <br/>
 Passenger ID : Number assigned to each passenger <br/>
