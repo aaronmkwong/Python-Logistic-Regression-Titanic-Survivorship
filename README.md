@@ -2,9 +2,7 @@
 
 **SUMMARY**
 
-This project uses logistic regression modeling to classify a passenger's survivorship as died or survived. It focuses more on statistics to understand assumptions, select features and evaluate the results, rather than iteratively transforming and selecting features (e.g. Boston House Prices) or parameter tuning to achieve a best performing model. 
-
-
+This project uses logistic regression modeling to classify a passenger's survivorship as died or survived. It focuses more on statistics to understand assumptions, select features and evaluate the results, rather than iteratively transforming and selecting features (e.g. **[Boston House Prices](https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices)**) or parameter tuning to achieve a best performing model. 
 
 **WALK THROUGH**
 
