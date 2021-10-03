@@ -9,7 +9,7 @@ This project performs binary logistic regression modeling to classify a passenge
 
 Of the given features, imputation, parsing, dummy encoding and scaling are used to obtain 13 engineered features. Model assumptions reviewed include: the dependent variable is binary; observations are independent; the independent variables are not multicollinear; the independent variables and log odds are linear; the dataset is large. The results were evaluated using a Pearson Residual to identify outliers, which may be indicative of remaining issues with feature engineering or regression assumptions.   
 
-The Titanic dataset is available through the **[Kaggle](https://www.kaggle.com/c/titanic/overview)** competition.
+The Titanic dataset is available through the **[Kaggle](https://www.kaggle.com/c/titanic/overview)** competition web page.
 
 **WALK THROUGH**
 
