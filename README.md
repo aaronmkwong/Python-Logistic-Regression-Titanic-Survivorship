@@ -11,7 +11,7 @@ Of the given features, imputation, parsing, dummy encoding and scaling are used 
 
 The Titanic dataset is available at **[Kaggle](https://www.kaggle.com/c/titanic/overview)**.
 
-The average is **_model accuracy was 80%_** using Monte Carlo cross validation 25 times with a 0.7-0.3 train-test split. There is an average of **_5 outliers_** with a standard distance of 3 or more. 
+The average **_model accuracy is 80%_** using Monte Carlo cross validation 25 times with a 0.7-0.3 train-test split. There is an average of **_5 outliers_** with a standard distance of 3 or more. 
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/summary_results.JPG" width="800" height="50">
 
