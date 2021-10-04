@@ -17,6 +17,6 @@ The average **_model accuracy is 80%_** using Monte Carlo cross validation 25 ti
 
 **WALK THROUGH**
 
-**_Data Exploration_**
+
 
 
