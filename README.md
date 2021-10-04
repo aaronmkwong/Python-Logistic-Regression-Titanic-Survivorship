@@ -17,6 +17,10 @@ The average **_model accuracy is 80%_** using Monte Carlo cross validation 25 ti
 
 **WALK THROUGH**
 
+Feature Engineering
+
+<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/01_best_model_result_B.JPG" width="400" height="60">
+
 
 
 
