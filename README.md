@@ -11,8 +11,9 @@ Of the given features, imputation, parsing, dummy encoding and scaling are used 
 
 The Titanic dataset is available at **[Kaggle](https://www.kaggle.com/c/titanic/overview)**.
 
-<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/summary_results.JPG" width="800" height="50">
+The average model accuracy was 81% using Monte Carlo cross validation 25 times with a 0.7-0.3 train-test split.
 
+<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/summary_results.JPG" width="800" height="50">
 
 **WALK THROUGH**
 
