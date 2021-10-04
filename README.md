@@ -19,17 +19,23 @@ The average **_model accuracy is 80%_** using Monte Carlo cross validation 25 ti
 
 <ins>Feature Engineering</ins> 
 
-Original Data
+...
+
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/original_data_01.JPG" width="1000" height="200">
 
-Final Data
+...
+
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/final_data_01.JPG" width="1000" height="200">
 
 <ins>Assumptions Review Part I</ins>
 
+...
+
 <ins>Model Results & Explainability</ins>
+
+...
 
 <ins>Assumptions Review Part II</ins>
 
-
+...
 
