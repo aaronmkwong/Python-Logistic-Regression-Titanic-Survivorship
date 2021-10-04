@@ -1,6 +1,6 @@
 # Python-Logistic-Regression-Titanic-Survivorship
 
-** ***THIS REPOSITORY IS UNDER CONTRUCTION*** **
+** ***THIS REPOSITORY IS UNDER CONSTRUCTION*** **
 
 
 **SUMMARY**
