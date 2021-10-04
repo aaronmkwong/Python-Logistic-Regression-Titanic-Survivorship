@@ -11,7 +11,7 @@ Of the given features, imputation, parsing, dummy encoding and scaling are used 
 
 The Titanic dataset is available at **[Kaggle](https://www.kaggle.com/c/titanic/overview)**.
 
-<img src="https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices/blob/main/Images/01_best_model_result_B.JPG" width="400" height="60">
+<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/summary_results.JPG" width="400" height="60">
 
 
 **WALK THROUGH**
