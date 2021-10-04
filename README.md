@@ -25,6 +25,11 @@ Original Data
 Final Data
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/final_data_01.JPG" width="1000" height="200">
 
+<ins>Assumptions Review Part I</ins>
+
+<ins>Model Explainability</ins>
+
+<ins>Assumptions Review Part II</ins>
 
 
 
