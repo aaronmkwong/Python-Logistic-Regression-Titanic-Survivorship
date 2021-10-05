@@ -37,7 +37,9 @@ In the **_engineered data_** sample below all features have been scaled to be 0 
 
 <ins>Assumptions Review Part I</ins>
 
-...
+The Titanic dataset dependent variable is indeed binary. 
+
+
 
 <ins>Model Results & Explainability</ins>
 
