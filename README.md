@@ -51,8 +51,7 @@ The Titanic dataset dependent variable is indeed binary. But, does it have an is
 
 **REFERENCES**
 
-Brownlee, Jason. (2021a). *Data Preparation for Machine Learning: Data Cleaning, Feature Selection and Data Transforms in Python*. 
-https://machinelearningmastery.com/data-preparation-for-machine-learning/ 
+Brownlee, Jason. (2021a). *Data Preparation for Machine Learning: Data Cleaning, Feature Selection and Data Transforms in Python*. https://machinelearningmastery.com/data-preparation-for-machine-learning/ 
 
 Brownlee, Jason. (2021b). *Imbalanced Classification with Python Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning*. https://machinelearningmastery.com/imbalanced-classification-with-python/
 
