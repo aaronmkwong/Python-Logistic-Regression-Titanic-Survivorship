@@ -37,7 +37,7 @@ In the **_engineered data_** sample below all features have been scaled to be 0 
 
 <ins>Assumptions Review Part I</ins>
 
-The Titanic dataset dependent variable is indeed binary. But, does it have an issue with imbalance? Models can perform can skew to predicting the majority class if an imbalance is present (Brownlee, 2021b, Imbalanced Classification with Python, p. 42).  
+The Titanic dataset dependent variable is indeed binary. But, does it have an issue with imbalance? Models can skew to predicting the majority class if an imbalance is present (Brownlee, 2021b, Imbalanced Classification with Python, p. 42).  
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/binary_dep_var_assumption_01.JPG">
 
