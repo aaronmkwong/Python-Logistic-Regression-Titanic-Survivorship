@@ -27,7 +27,7 @@ In the **_original data_** sample below, Name, Sex, Ticket, Cabin and Embarked a
 
 Name is parsed for titles, categorized using the function title_category() as Doctor, Peerage, Nobility, Religious, Military and Untitled then dummy encoded. Ticket is dropped as it does not contain useful information. Cabin is dropped since the majority of values are nulls and unlikely to benefit from imputation. Sex and Embarked are dummy encoded, but the 2 rows which contain nulls under Embarked are removed since they are unlikely to impact model training. Age is imputed with the function impute_avg(), which uses the original dataframe as a global variable and Pclass and Age column names as arguments to calculate the average age of each passenger class then apply to the null Age values.  
 
-In the **_encoded data_** sample below there is an issue with the scale of the data when comparing PassengerId, Pclass, Fare and Age to the other features. Differences in scale across features can result in a model that learns large weight values and is sensitive to input values leading to higher generalization error (Brownlee, 2021, p. 231).
+In the **_encoded data_** sample below there is an issue with the scale of the data when comparing PassengerId, Pclass, Fare and Age to the other features. Differences in scale across features can result in a model that learns large weight values and is sensitive to input values leading to higher generalization error (Brownlee, 2021a, p. 231).
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/unscaled_data_01.JPG" width="1000" height="200">
 
@@ -37,7 +37,7 @@ In the **_engineered data_** sample below all features have been scaled to be 0 
 
 <ins>Assumptions Review Part I</ins>
 
-The Titanic dataset dependent variable is indeed binary. But, does it have an issue with imbalance? 
+The Titanic dataset dependent variable is indeed binary. But, does it have an issue with imbalance? Models can perform can skew to predicting the majority class if an imbalance is present (Brownlee, 2021b, Imbalanced Classification with Python, p. 42).  
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/binary_dep_var_assumption_01.JPG">
 
@@ -51,4 +51,8 @@ The Titanic dataset dependent variable is indeed binary. But, does it have an is
 
 **REFERENCES**
 
-Brownlee, Jason. (2021). *Data Preparation for Machine Learning: Data Cleaning, Feature Selection and Data Transforms in Python*. https://machinelearningmastery.com/data-preparation-for-machine-learning/ 
+Brownlee, Jason. (2021a). *Data Preparation for Machine Learning: Data Cleaning, Feature Selection and Data Transforms in Python*. 
+https://machinelearningmastery.com/data-preparation-for-machine-learning/ 
+
+Brownlee, Jason. (2021b). *Imbalanced Classification with Python Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning*. https://machinelearningmastery.com/imbalanced-classification-with-python/
+
