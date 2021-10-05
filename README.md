@@ -39,7 +39,7 @@ In the **_engineered data_** sample below all features have been scaled to be 0 
 
 The Titanic dataset dependent variable is indeed binary. 
 
-
+<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/binary_dep_var_assumption_01.JPG">
 
 <ins>Model Results & Explainability</ins>
 
