@@ -47,3 +47,6 @@ In the **_encoded data_** sample below there is an issue with the scale of the d
 
 ...
 
+**REFERENCES**
+
+...
