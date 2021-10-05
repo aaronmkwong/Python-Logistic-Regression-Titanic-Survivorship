@@ -49,4 +49,4 @@ In the **_encoded data_** sample below there is an issue with the scale of the d
 
 **REFERENCES**
 
-...
+Brownlee, Jason. (2021). *Data Preparation for Machine Learning: Data Cleaning, Feature Selection and Data Transforms in Python*. https://machinelearningmastery.com/data-preparation-for-machine-learning/ 
