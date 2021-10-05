@@ -19,7 +19,7 @@ The average **_model accuracy is 80%_** using Monte Carlo cross validation 25 ti
 
 <ins>Feature Engineering</ins> 
 
-In the original data Name, Sex, Ticket, Cabin and Embarked are text, and Age, Cabin and Embarked contain nulls.  
+In the **_original data_** sample below, Name, Sex, Ticket, Cabin and Embarked are text, and Age, Cabin and Embarked contain nulls.  
 
 Name is parsed for titles, categorized using the function title_category() as Doctor, Peerage, Nobility, Religious, Military and Untitled then dummy encoded. Ticket is dropped as it does not contain useful information. 
 
