@@ -17,6 +17,8 @@ The average **_model accuracy is 80%_** using Monte Carlo cross validation 25 ti
 
 **WALK THROUGH**
 
+The code is separated into 2 files and **[Titanic_Survivorship_11A.ipynb](https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Program%20Files/Titanic_Survivorship_11A.ipynb)** and ...
+
 <ins>Feature Engineering</ins> 
 
 In the **_original data_** sample below, Name, Sex, Ticket, Cabin and Embarked are text, also Age, Cabin and Embarked contain nulls.  
