@@ -31,7 +31,7 @@ In the **_encoded data_** sample below there is an issue with the scale of the d
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/unscaled_data_01.JPG" width="1000" height="200">
 
-In the **_engineered data_** sample below all features have been scaled to be 0 to 1.
+In the **_engineered data_** sample below all features have been scaled to be 0 to 1. For example, Pclass changes from 1, 2, 3 to 0, 0.5, 1. 
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/final_data_01.JPG" width="1000" height="200">
 
