@@ -37,7 +37,7 @@ In the **_engineered data_** sample below all features have been scaled to be 0 
 
 <ins>Assumptions Review Part I</ins>
 
-The Titanic dataset dependent variable is indeed binary. 
+The Titanic dataset dependent variable is indeed binary. But, does it have an issue with imbalance? 
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/binary_dep_var_assumption_01.JPG">
 
