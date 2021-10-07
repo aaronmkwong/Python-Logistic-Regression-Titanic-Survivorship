@@ -57,6 +57,6 @@ Brownlee, Jason. (2021a). *Data Preparation for Machine Learning: Data Cleaning,
 
 Brownlee, Jason. (2021b). *Imbalanced Classification with Python Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning* (v1.3 ed.). https://machinelearningmastery.com/imbalanced-classification-with-python/
 
-Pardoe, Ian. (2012). *Applied Regression Modeling* (2nd ed.)
+Pardoe, Ian. (2012). *Applied Regression Modeling* (2nd ed.). Hoboken, New Jersey: John Wiley & Sons.
 
 Statistics Solutions. (2021, October 6). *Assumptions of Logistics Regression*. https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/assumptions-of-logistic-regression/
