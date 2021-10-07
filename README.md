@@ -53,8 +53,10 @@ The Survived **_dependent variable is binary_**, but shows an imbalance. Models 
 
 **REFERENCES**
 
-Brownlee, Jason. (2021a). *Data Preparation for Machine Learning: Data Cleaning, Feature Selection and Data Transforms in Python*. https://machinelearningmastery.com/data-preparation-for-machine-learning/ 
+Brownlee, Jason. (2021a). *Data Preparation for Machine Learning: Data Cleaning, Feature Selection and Data Transforms in Python* (v1.2 ed.). https://machinelearningmastery.com/data-preparation-for-machine-learning/ 
 
-Brownlee, Jason. (2021b). *Imbalanced Classification with Python Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning*. https://machinelearningmastery.com/imbalanced-classification-with-python/
+Brownlee, Jason. (2021b). *Imbalanced Classification with Python Choose Better Metrics, Balance Skewed Classes, and Apply Cost-Sensitive Learning* (v1.3 ed.). https://machinelearningmastery.com/imbalanced-classification-with-python/
+
+Pardoe, Ian. (2012). *Applied Regression Modeling* (2nd ed.)
 
 Statistics Solutions. (2021, October 6). *Assumptions of Logistics Regression*. https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/assumptions-of-logistic-regression/
