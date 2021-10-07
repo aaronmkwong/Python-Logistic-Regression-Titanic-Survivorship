@@ -43,7 +43,7 @@ The Survived **_dependent variable is binary_**, but shows an imbalance. Models 
 
 ...
 
-<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/multicollinearity_assumption_01.JPG" width="150" height="200">
+<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/multicollinearity_assumption_01.JPG" width="250" height="300">
 
 <ins>Model Results & Explainability</ins>
 
