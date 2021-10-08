@@ -51,7 +51,7 @@ The **_dataset size is large_** at 889 observations and 14 features (before Unti
 
 ...
 
-<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/top_middle_worst_results_03.JPG" width="1000" height="200">
+<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/top_middle_worst_results_03.JPG" width="900" height="175">
 
 <ins>Assumptions Review Part II</ins>
 
