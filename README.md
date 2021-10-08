@@ -45,7 +45,7 @@ The **_independent variables are not multicollinear_** after Untitled predictor 
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/multicollinearity_assumption_01.JPG" width="325" height="400">
 
-The **_dataset size is large_** at 889 observations and 14 features (before Untitled is removed). Using the one in ten rule, where a minimum of 10 cases is required for the least frequent outcome of the independent variables (Statistics Solutions), the function dataset_size_test() returns 366 (732 at 20 cases) required observations to be sufficiently large. 
+The **_dataset size is large_** at 889 observations and 14 features (before Untitled is removed). Using the one in ten rule, where a minimum of 10 cases is required for the least frequent outcome of the independent variables (Statistics Solutions), the function dataset_size_test() returns 366 (732 at 20 cases) required observations to be sufficiently large. So, ( cases / ( least frequent outcome / total outcomes) ) * features = ( 10 / ( 340 / 889 ) ) * 14 = 366. 
 
 <ins>Model Results & Explainability</ins>
 
