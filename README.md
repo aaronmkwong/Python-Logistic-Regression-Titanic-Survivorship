@@ -45,6 +45,10 @@ The **_independent variables are not multicollinear_** after Untitled predictor 
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/multicollinearity_assumption_01.JPG" width="325" height="400">
 
+The **_dataset size is large_** at 889 observations. 
+
+A minimum of 10 cases with the least frequent outcome for each independent variable in the model (Statistics Solutions).
+
 <ins>Model Results & Explainability</ins>
 
 ...
