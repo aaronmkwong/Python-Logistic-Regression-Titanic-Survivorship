@@ -55,7 +55,7 @@ The **_dataset is large_** at 889 observations and 14 features (before Untitled 
 
 ...
 
-<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/intercept_coefficients_02.JPG">
+<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/intercept_coefficients_02.JPG" width="600" height="550">
 
 <ins>Assumptions Review Part II</ins>
 
