@@ -41,7 +41,7 @@ The Survived **_dependent variable is binary_**, but shows an imbalance. Models 
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/binary_dep_var_assumption_01.JPG">
 
-The **_independent variables are not multicollinear_** after Untitled predictor is removed. If only pairwise correlation is used, the assumption may appear to hold as no pair has a strong R<sup>2</sup> value. It is helpful to regress each predictor on the others to determine how much larger the variance of each coefficient becomes when the corresponding predictor is included; a variance inflation factor greater than 10 is potentially indicative of multicollinearity (Pardoe, p. 206-9). The functions corr_pair() and multicoll() generate the following dataframes.         
+The **_independent variables are not multicollinear_** after Untitled predictor is removed. If only pairwise correlation is used, the assumption may appear to hold as no pair has a strong R<sup>2</sup> value. It is helpful to regress each predictor on the others to determine how much larger the variance of each coefficient becomes when the corresponding predictor is included; a variance inflation factor greater than 10 is potentially indicative of multicollinearity (Pardoe, 2012, p. 206-9). The functions corr_pair() and multicoll() generate the following dataframes.         
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/multicollinearity_assumption_01.JPG" width="325" height="400">
 
