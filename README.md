@@ -37,7 +37,7 @@ In the **_engineered data_** sample below all features have been scaled to be 0 
 
 <ins>Assumptions Review Part I</ins>
 
-The Survived **_dependent variable is binary_**, but shows an imbalance. Models can skew to predicting the majority class if an imbalance is present (Brownlee, 2021b, p. 42). A slight imbalance is often not a concern, e.g. 4:6, and the problem can often be treated like a normal classification predictive modeling problem (Brownlee, 2021b, Imbalanced Classification with Python, p. 23). In this case, the ratio of 1 to 0 is 5:8, so no balance adjustment is performed in the model.   
+The Survived **_dependent variable is binary_**, but shows an imbalance. Models can skew to predicting the majority class if an imbalance is present (Brownlee, 2021b, p. 42). A slight imbalance is often not a concern, e.g. 4:6, and the problem can often be treated like a normal classification predictive modeling problem (Brownlee, 2021b, p. 23). In this case, the ratio of 1 to 0 is 5:8, so no balance adjustment is performed in the model.   
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/binary_dep_var_assumption_01.JPG">
 
