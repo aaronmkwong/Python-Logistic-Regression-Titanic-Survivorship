@@ -67,8 +67,9 @@ The **_dataset is large_** at 889 observations and 14 features (before Untitled 
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/raw_residuals_01.JPG">
 
-...
+...independent variables and log odds are linear...
 
+<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/linear_logitrespvar_explvar_01.JPG">
 
 **REFERENCES**
 
