@@ -51,11 +51,13 @@ The **_dataset is large_** at 889 observations and 14 features (before Untitled 
 
 ...
 
-Raw residual <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/raw_residual_re_pearson_01.JPG">
+Raw Residual 
+<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/raw_residual_re_pearson_01.JPG">
 
 ...
 
-Pearson residual <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/pearson_residual_01.JPG">
+Pearson Residual 
+<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/pearson_residual_01.JPG">
 
 ...
 
