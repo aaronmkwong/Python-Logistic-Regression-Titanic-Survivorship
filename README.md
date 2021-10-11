@@ -89,6 +89,8 @@ Brownlee, Jason. (2021b). *Imbalanced Classification with Python Choose Better M
 
 Pardoe, Ian. (2012). *Applied Regression Modeling* (2nd ed.). Hoboken, New Jersey: John Wiley & Sons.
 
-Pardoe, Ian. (2021, October 10). *Applied Regression Analysis: 12.1 Logistic Regression*. https://online.stat.psu.edu/stat462/node/207/
+Pardoe, Ian. (2021a, October 10). *Applied Regression Analysis: 12.1 Logistic Regression*. https://online.stat.psu.edu/stat462/node/207/
+
+Pardoe, Ian. (2021b, October 10). *Applied Regression Analysis: 9.3 Identifying Outliers*. https://online.stat.psu.edu/stat462/node/172/
 
 Statistics Solutions. (2021, October 6). *Assumptions of Logistic Regression*. https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/assumptions-of-logistic-regression/
