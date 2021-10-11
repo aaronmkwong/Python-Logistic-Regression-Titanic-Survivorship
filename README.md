@@ -63,7 +63,7 @@ The number of outliers range from 0 to 18 for the 25 trials. Only 3 trials have 
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/top_middle_worst_results_03.JPG" width="900" height="175">
 
-...
+When the logistic model log odds coefficients are converted to odds (i.e. e<sup>(log odds)</sup>), then odds are distinguished in terms of odds survived (i.e. if e<sup>(log odds)</sup> >= 1) and odds not survived (i.e. if e<sup>(log odds)</sup> < 1, then 1 / e<sup>(log odds)</sup>) the following observations can be made.
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/intercept_coefficients_02.JPG" width="450" height="400">
 
