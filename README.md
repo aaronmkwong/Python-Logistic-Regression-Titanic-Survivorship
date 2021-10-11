@@ -43,7 +43,7 @@ The Survived **_dependent variable is binary_**, but shows an imbalance. Models 
 
 The **_independent variables are not multicollinear_** after Untitled predictor is removed. If only pairwise correlation is used, the assumption may appear to hold as no pair has a strong R<sup>2</sup> value. It is helpful to regress each predictor on the others to determine how much larger the variance of each coefficient becomes when the corresponding predictor is included; a variance inflation factor greater than 10 is potentially indicative of multicollinearity (Pardoe, 2012, p. 206-9). The functions corr_pair() and multicoll() generate the following dataframes.         
 
-<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/multicollinearity_assumption_01.JPG" width="325" height="400">
+<img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/multicollinearity_assumption_02.JPG" width="325" height="400">
 
 The **_dataset is large_** at 889 observations and 14 features (before Untitled is removed). Using the one in ten rule, where a minimum of 10 cases is required for the least frequent outcome per independent variable (Statistics Solutions), the function dataset_size_test() returns 366 (732 at 20 cases) required observations to be sufficiently large. So, ( cases / ( least frequent outcome / total outcomes) ) * features = ( 10 / ( 340 / 889 ) ) * 14 = 366. 
 
