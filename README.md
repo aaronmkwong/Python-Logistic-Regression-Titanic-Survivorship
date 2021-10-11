@@ -49,9 +49,10 @@ The **_dataset is large_** at 889 observations and 14 features (before Untitled 
 
 <ins>Model Results & Explainability</ins>
 
-...
+Standardized residuals quantify how large the residuals are in standard deviation units and an observation larger than 3 (absolute value) is considered an outlier (Pardoe, 2021b). 
 
-Raw Residual<br/> 
+The predicted probability is subtracted from the observed target value 100% or 0% (1 or 0) to get the raw residual.
+
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/raw_residual_re_pearson_01.JPG">
 
 ...
