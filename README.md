@@ -59,11 +59,11 @@ The predicted probability is subtracted from the observed target value 100% or 0
  
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/pearson_residual_01.JPG">
 
-The number of outliers range from 0 to 18 for the 25 trials. Only 3 trials have 0 outliers, which have accuracies of 0.82, 0.84 and 0.80. So, the model doesn't generalize well yet. An important predictor may be missing; or one or more regression assumptions may be violated, in which case transformations or interactions can be helpful (Pardoe, 2012, p.190)
+The number of outliers range from 0 to 18 for the 25 trials. Only 3 trials have 0 outliers, which have accuracies of 0.82, 0.84 and 0.80. So, the model doesn't generalize well yet. An important predictor may be missing; or one or more regression assumptions may be violated, in which case transformations or interactions can be helpful (Pardoe, 2012, p.190). The function log_mod_assess() generates a dataframe of classification report results and a count of observations with a standard distance between 2 and 3 as well as greater than or equal to 3. Also, the random state value is included, so as to reproduce the same results when interpreting the coefficients.
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/top_middle_worst_results_03.JPG" width="900" height="175">
 
-The function log_mod_assess() generates a dataframe of classification report results and a count of observations with a standard distance between 2 and 3 as well as greater than or equal to 3. Also, the random state value is included, so as to reproduce the same results when interpreting the coefficients.
+...
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/intercept_coefficients_02.JPG" width="450" height="400">
 
