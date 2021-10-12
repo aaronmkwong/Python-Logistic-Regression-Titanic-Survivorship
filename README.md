@@ -77,7 +77,7 @@ The **_observations are independent_** insofar as knowing the value of one raw r
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/raw_residuals_01.JPG">
 
-The **_log odds and independent variables are linear_** by transforming the logistic function to equate log odds to the sum of the intercept and dot product of coefficients and independent variables. A scatterplot depicts the linearity of the relationship.
+The **_log odds and independent variables are linear_**, which is apparent by transforming the logistic function to equate log odds to the sum of the intercept and the dot product of coefficients and independent variables. A scatterplot depicts the linearity of the relationship.
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/linear_logitrespvar_explvar_01.JPG" width="700" height="350">
 
