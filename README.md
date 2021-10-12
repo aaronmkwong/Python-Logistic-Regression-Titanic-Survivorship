@@ -73,7 +73,7 @@ The sklearn logistic model predictions (see the below 8 sample target values) of
 
 <ins>Assumptions Review Part II</ins>
 
-...independence...
+The **_observations are independent_** insofar as knowing the value of one raw residual error does not provide information about the value of another one, and so the scatterplot does not appear to display autocorrelation (Pardoe, 2012, p.202).
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/raw_residuals_01.JPG">
 
