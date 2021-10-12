@@ -67,7 +67,7 @@ When the logistic model log odds coefficients are converted to odds (e<sup>(log 
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/intercept_coefficients_02.JPG" width="450" height="400">
 
-The sklearn logistic model predictions of not survived (0) or survived (1) are based on the model probabilities array, which in turn can be confirmed using the logistic function with the independent values (features), coefficients and intercept.
+The sklearn logistic model predictions (see the below 8 sample target values) of not survived (0) or survived (1) are based on the model probabilities array, which in turn can be confirmed using the logistic function with the independent values (features), coefficients and intercept.
 
 <img src="https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Other%20Files/model_predictions_01.JPG">
 
