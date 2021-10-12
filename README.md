@@ -1,8 +1,5 @@
 # Python-Logistic-Regression-Titanic-Survivorship
 
-** ***THIS REPOSITORY IS UNDER CONSTRUCTION*** **
-
-
 **SUMMARY**
 
 This project performs binary logistic regression modeling to classify a passenger's survivorship as died or survived. It focuses more on statistics to select features, understand assumptions and evaluate results, rather than iteratively transforming and selecting features to achieve a best performing model, as is the case in the **[Boston House Prices](https://github.com/aaronmkwong/Python-Linear-Regression-Boston-House-Prices)** project. The Titanic Survivorship project too is intended to be limited in scope as a learning sprint with its code and methods potentially applied to more robust model versions in the future.             
