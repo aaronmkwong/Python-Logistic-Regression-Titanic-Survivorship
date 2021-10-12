@@ -17,7 +17,9 @@ The average **_model accuracy is 80%_** using Monte Carlo cross validation 25 ti
 
 **WALK THROUGH**
 
-The code is separated into 2 files and **[Titanic_Survivorship_11A.ipynb](https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Program%20Files/Titanic_Survivorship_11A.ipynb)** and ... . All of the functions mentioned below are custom built.
+The code is separated into 2 files and **[Titanic_Survivorship_11A.ipynb](https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Program%20Files/Titanic_Survivorship_11A.ipynb)** and **[Titanic_Survivorship_11B.ipynb](https://github.com/aaronmkwong/Python-Logistic-Regression-Titanic-Survivorship/blob/main/Program%20Files/Titanic_Survivorship_11B.ipynb)** . 
+
+All of the functions mentioned below are custom built.
 
 <ins>Feature Engineering</ins> 
 
